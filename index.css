@@ -5,6 +5,7 @@ html, body {
     justify-content: center;
     user-select: none;
     background-color: #EEF0F4;
+    min-height: 100%;
 }
 
 section {
