@@ -27,8 +27,8 @@ img {
 }
 
 button, input {
-    height: 50px;
-    width: 200px;
+    min-height: 50px;
+    min-width: 200px;
     border: none;
 }
 
