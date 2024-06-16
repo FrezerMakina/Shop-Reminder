@@ -68,3 +68,10 @@ ul li:hover {
     background-color: #FFECC7;
     cursor: pointer;
 }
+
+@media (max-width: 400px) {
+    section {
+        width: 100%;
+        height: 100%;
+    }
+}
