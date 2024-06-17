@@ -6,6 +6,7 @@ html, body {
     user-select: none;
     background-color: #EEF0F4;
     min-height: 100%;
+    overflow: hidden;
 }
 
 section {
